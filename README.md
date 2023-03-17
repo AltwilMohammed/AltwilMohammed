@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Mohammed-Altwil 
 - 👀 I am a Computer Engineering student, I studied in IBB university,I am intersted in programming language ,deep learning ,embedded system and web design .
-  Skills: java / python / c# / c / c++ / HTML / CSS /  JavaScript / php / MySQL / matlab
-- 🌱 I’m currently working in the last year project 
+  Skills: java / python / c# / c / c++ / HTML / CSS /  JavaScript / php / MySQL / matlab 
 - 📫 How to reach me altwilmohammed@gmail.com
 
 <!---
